@@ -8,6 +8,7 @@ public class Main {
                 for (int i = 2; i <= 100; i += 2) {
                     System.out.println(a);
                     a += i;
+
                 }
 
                 System.out.println("Sum of even numbers from 1 to 100: " + a);
